@@ -1,0 +1,6 @@
+{
+  "name": "História para o ENEM - Materiais Pedagógicos",
+  "description": "Página de vendas profissional e visual com slides, mapas mentais e atividades de História com foco no ENEM para professores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
